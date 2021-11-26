@@ -31,7 +31,7 @@ Wei, J., Finn, K., **Templeton, E.**, Wheatley, T., & Vosoughi, S. (2021). Lingu
 text-based therapy. In Proceedings of the 2021 Conference of the North American Chapter of the 
 Association for Computational Linguistics.
 
-Tamir, D.&ast;, **Templeton, E.&ast**;, Ward, A., & Zaki, J. (2018). Media usage diminishes memory for 
+Tamir, D.&ast;, **Templeton, E.**&ast;, Ward, A., & Zaki, J. (2018). Media usage diminishes memory for 
 experiences. Journal of Experimental Social Psychology, 76, 161-168.
 
 **Templeton, E.M.**, Stanton, M.V., & Zaki, J. (2016). Social norms shift preferences for healthy and 
