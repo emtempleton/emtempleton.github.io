@@ -1,10 +1,18 @@
 ## Emma Templeton
 
-You can use the [editor on GitHub](https://github.com/emtempleton/emtempleton.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm a PhD candidate in the Department of Psychological and Brain Sciences at Dartmouth. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What makes conversation "good"?
 
-### This is a test
+I use a data-driven, naturalistic approaches to try and answer this question. 
+
+### Publications
+
+#### In Prep
+
+#### Under review / revision
+
+#### Published
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
