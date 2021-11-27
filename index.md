@@ -16,7 +16,7 @@ I use a data-driven, naturalistic approaches to try and answer this question.
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (under review). Fast response times signal social connection in conversation. [data & materials](https://github.com/emtempleton/GapPaper)
 
-Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under review). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [preprint](https://psyarxiv.com/gk9z2/) [data & materials](https://osf.io/tfxa7/)
+Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under review). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
 
 ## Published
 
