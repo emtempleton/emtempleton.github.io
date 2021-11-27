@@ -10,17 +10,17 @@ Before graduate school, I received my A.B. in Psychology from Harvard where I wo
 
 # Publications
 
-## In Prep
+### In Prep
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in prep). Strangers mind the gap more than friends.
 
-## Under review / revision
+### Under review / revision
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (under review). Fast response times signal social connection in conversation. [[data & materials]](https://github.com/emtempleton/GapPaper)
 
 Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under review). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
 
-## Published
+### Published
 
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2021). Conversation Dynamics Predicts Negotiation Outcomes. In *The 34th Annual Conference of the International Association for Conflict Management.*
 
