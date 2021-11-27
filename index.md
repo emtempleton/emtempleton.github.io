@@ -6,7 +6,7 @@ Hi! I'm a PhD candidate in the Department of Psychological and Brain Sciences at
 
 I use data-driven, naturalistic approaches to try and answer this question.
 
-Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell] (https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir] (https://psnlab.princeton.edu/). Then, I worked as [Jamil Zaki]'s (https://www.ssnl.stanford.edu/) lab manager at Stanford.
+Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab manager at Stanford.
 
 # Publications
 
