@@ -1,28 +1,42 @@
 # About Me
 
-Hi! I'm a PhD candidate in the Department of Psychological and Brain Sciences at Dartmouth. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is...
+Hi! I'm a PhD candidate in Psychological and Brain Sciences at Dartmouth. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is: **What makes conversation "good"?**
 
-What makes conversation "good"?
+Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as a lab manager at Stanford in [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab.
 
-I use data-driven, naturalistic approaches to try and answer this question.
+I love helping foster a strong sense of community wherever I go. In college, I won the William Fahey House Spirit award for my contributions to Pforzheimer House. I’ve been fortunate to continue my involvement in student residential life as a [Resident Fellow](https://sites.dartmouth.edu/ew/about-us/) in East Wheelock House for the past four years.
 
-Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab manager at Stanford.
+# My Research
+
+I study conversation. 
+
+We’ve all had the experience of meeting someone and hitting it off right away. We’ve also all had the experience of meeting someone and just not being able to connect with them no matter how hard you try. What happens in an interaction that determines this outcome? 
+
+I use data-driven, naturalistic approaches to explore this question.
+
+![round-robin conversation paradigm](round_robin.png "round-robin paradigm")
+
+For example, I’ve collected six, 11-person round-robins where every member of the round robin had a conversation with every other member of the round robin. I can quantify different aspects of the conversation to examine how conversation behavior relates to participant reports of enjoyment and connection. This round-robin network structure allows us to look at multiple levels of analyses -- within conversations, across conversations, and across individual people. 
+
+In addition to this round-robin conversation dataset, I’ve also collected different conversation types (friends vs strangers) as well as formats (face-to-face vs online).
+
+Of course, I like to follow up any findings from these naturalistic datasets with controlled experimental studies. However, I think there is real value in having insights come from the data itself rather than intuition alone. After all, I only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
 
 # Publications
 
-### In Prep
+### // In Prep
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in prep). Strangers mind the gap more than friends.
 
-### Under review / revision
+Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (in prep). Zooming Out on Bargaining Tables: Conversation Dynamics Predicts Negotiation Outcomes
 
-**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (under review). Fast response times signal social connection in conversation. [[data & materials]](https://github.com/emtempleton/GapPaper)
+### // Under review / revision
+
+**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (under revision). Fast response times signal social connection in conversation. [[data & materials]](https://github.com/emtempleton/GapPaper)
 
 Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under review). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
 
-### Published
-
-Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2021). Conversation Dynamics Predicts Negotiation Outcomes. In *The 34th Annual Conference of the International Association for Conflict Management.*
+### // Published
 
 Wei, J., Finn, K., **Templeton, E.**, Wheatley, T., & Vosoughi, S. (2021). Linguistic complexity loss in text-based therapy. In *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.* [[paper]](https://aclanthology.org/2021.naacl-main.352.pdf)
 

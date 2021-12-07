@@ -144,7 +144,7 @@ h3, h4, h5, h6 { color: #494949; }
 
 a { color: #267CB9; text-decoration: none; }
 
-a:hover, a:focus { color: #069; font-weight: normal; }
+a:hover, a:focus { color: #ff006e; font-weight: normal; }
 
 a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
@@ -172,15 +172,15 @@ kbd { background-color: #fafbfc; border: 1px solid #c6cbd1; border-bottom-color:
 
 header { width: 270px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; }
 
-ul.downloads { list-style: none; height: 40px; padding: 0; background: #676767; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
+ul.downloads { list-style: none; height: 40px; padding: 0; background: #00afb9; border-radius: 5px; border: 1px solid #FFFFFF; width: 270px; }
 
-.downloads li { width: 89px; float: left; border-right: 1px solid #e0e0e0; height: 40px; }
+.downloads li { width: 89px; float: left; border-right: 1px solid #FFFFFF; height: 40px; }
 
 .downloads li:first-child a { border-radius: 5px 0 0 5px; }
 
 .downloads li:last-child a { border-radius: 0 5px 5px 0; }
 
-.downloads a { line-height: 40px; font-size: 13px; color: #FFFFFF; display: block; text-align: center; height: 40px; }
+.downloads a { line-height: 40px; font-size: 12px; color: #FFFFFF; display: block; text-align: center; height: 40px; }
 
 .downloads a:hover, .downloads a:focus { color: #FFFFFF; font-weight: normal; background-color: #ff006e; }
 
