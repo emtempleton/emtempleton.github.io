@@ -8,11 +8,11 @@ I love building community wherever I go. I’ve been fortunate to formally contr
 
 # My Research
 
-I study conversation. 
+I study **conversation**. 
 
 We’ve all had the experience of meeting someone and hitting it off right away. We’ve also all had the experience of meeting someone and just not being able to connect with them no matter how hard you try. What happens in an interaction that determines this outcome? 
 
-I use data-driven, naturalistic approaches to explore this question.
+I use **data-driven**, **naturalistic** approaches to explore this question.
 
 ![round-robin conversation paradigm](round_robin.png "round-robin paradigm")
 
@@ -20,7 +20,7 @@ I’ve collected six, 11-person round-robins where every member of the round rob
 
 In addition to this round-robin conversation dataset, I’ve also collected different conversation types (friends vs strangers) as well as formats (face-to-face vs online).
 
-Of course, I like to follow up any findings from these naturalistic datasets with controlled experimental studies. However, I think there is real value in having insights come from the data itself rather than intuition alone. After all, I only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
+Of course, I like to follow up any findings from these naturalistic datasets with controlled **experimental studies**. However, I think there is real value in having insights come from the data itself rather than intuition alone. After all, I only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
 
 # Publications
 

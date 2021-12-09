@@ -178,15 +178,15 @@ ul.downloads { list-style: none; height: 40px; padding: 0; background: #00afb9; 
 
 .downloads li:first-child a { border-radius: 5px 0 0 5px; }
 
-.downloads li:last-child a { border-radius: 0 5px 5px 0; }
+.downloads li:last-child a { border-radius: 0 5px 5px 0; line-height: 20px; }
 
-.downloads a { line-height: 40px; font-size: 12px; color: #FFFFFF; display: block; text-align: center; height: 40px; }
+.downloads a { line-height: 40px; font-size: 13px; color: #FFFFFF; display: block; text-align: center; height: 40px; white-space: normal; }
 
 .downloads a:hover, .downloads a:focus { color: #FFFFFF; font-weight: normal; background-color: #ff006e; }
 
 .downloads ul a:active { background-color: #f0f0f0; }
 
-strong { color: #222; font-weight: 700; }
+strong { color: #5e6472; font-weight: 700; }
 
 .downloads li + li + li { border-right: none; width: 89px; }
 

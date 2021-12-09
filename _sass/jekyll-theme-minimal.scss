@@ -148,15 +148,17 @@ ul.downloads {
 
 .downloads li:last-child a {
   border-radius:0 5px 5px 0;
+  line-height:20px;
 }
 
 .downloads a {
   line-height:40px;
-  font-size:12px;
+  font-size:13px;
   color:#FFFFFF;
   display:block;
   text-align:center;
   height:40px;
+  white-space: normal;
 }
 
 .downloads a:hover, .downloads a:focus {
@@ -170,7 +172,7 @@ ul.downloads {
 }
 
 strong {
-  color:#222;
+  color:#5e6472;
   font-weight:700;
 }
 
