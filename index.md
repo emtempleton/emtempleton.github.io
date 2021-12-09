@@ -4,7 +4,7 @@ Hi! I'm a PhD candidate in Psychological and Brain Sciences at Dartmouth. I work
 
 Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as a lab manager at Stanford in [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab.
 
-I love helping foster a strong sense of community wherever I go. In college, I won the William Fahey House Spirit award for my contributions to Pforzheimer House. I’ve been fortunate to continue my involvement in student residential life as a [Resident Fellow](https://sites.dartmouth.edu/ew/about-us/) in East Wheelock House for the past four years.
+I love building community wherever I go. I’ve been fortunate to formally contribute to student residential life in my role as a [Resident Fellow](https://students.dartmouth.edu/residential-life/house-communities/resident-fellows) in [East Wheelock House](https://sites.dartmouth.edu/ew/) for the past four years.
 
 # My Research
 
@@ -16,7 +16,7 @@ I use data-driven, naturalistic approaches to explore this question.
 
 ![round-robin conversation paradigm](round_robin.png "round-robin paradigm")
 
-For example, I’ve collected six, 11-person round-robins where every member of the round robin had a conversation with every other member of the round robin. I can quantify different aspects of the conversation to examine how conversation behavior relates to participant reports of enjoyment and connection. This round-robin network structure allows us to look at multiple levels of analyses -- within conversations, across conversations, and across individual people. 
+I’ve collected six, 11-person round-robins where every member of the round robin had a conversation with every other member of the round robin. I quantify different aspects of the conversation to examine how conversation behavior relates to participant reports of enjoyment and connection. The round-robin network structure makes it possible to look at multiple levels of analyses -- within conversations, across conversations, and across individual people. 
 
 In addition to this round-robin conversation dataset, I’ve also collected different conversation types (friends vs strangers) as well as formats (face-to-face vs online).
 
