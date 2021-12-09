@@ -28,7 +28,7 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in prep). Strangers mind the gap more than friends.
 
-Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (in prep). Zooming Out on Bargaining Tables: Conversation Dynamics Predicts Negotiation Outcomes
+Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (in prep). Zooming Out on Bargaining Tables: Conversation Dynamics Predicts Negotiation Outcomes.
 
 ### // Under review / revision
 
