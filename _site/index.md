@@ -16,11 +16,11 @@ I use **data-driven**, **naturalistic** approaches to explore this question.
 
 ![round-robin conversation paradigm](round_robin.png "round-robin paradigm")
 
-I’ve collected six, 11-person round-robins where every member of the round robin had a conversation with every other member of the round robin. I quantify different aspects of the conversation to examine how conversation behavior relates to participant reports of enjoyment and connection. The round-robin network structure makes it possible to look at multiple levels of analyses -- within conversations, across conversations, and across individual people. 
+I’ve collected a large round-robin dataset where every member of each round-robin has a conversation with every other member. I quantify different aspects of these conversations to examine how conversation behavior relates to participant reports of enjoyment and connection. The round-robin network structure makes it possible to look at multiple levels of analyses: within conversations, across conversations, and across individual people. 
 
 In addition to this round-robin conversation dataset, I’ve also collected different conversation types (friends vs strangers) as well as formats (face-to-face vs online).
 
-Of course, I like to follow up any findings from these naturalistic datasets with controlled **experimental studies**. However, I think there is real value in having insights come from the data itself rather than intuition alone. After all, I only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
+Of course, I like to follow up any findings from these naturalistic datasets with controlled **experimental studies**. However, I think there is real value in having insights come from the data *itself* rather than intuition *alone*. After all, I  only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
 
 # Publications
 \* Denotes equal contribution
@@ -31,13 +31,13 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (in prep). Zooming Out on Bargaining Tables: Conversation Dynamics Predicts Negotiation Outcomes.
 
-### // Under review / revision
-
-**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (under revision). Fast response times signal social connection in conversation. [[data & materials]](https://github.com/emtempleton/GapPaper)
+### // Under review
 
 Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under review). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
 
 ### // Published
+
+**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in press). Fast response times signal social connection in conversation. *Proceedings of the National Academy of Sciences.* [[data & materials]](https://github.com/emtempleton/GapPaper)
 
 Wei, J., Finn, K., **Templeton, E.**, Wheatley, T., & Vosoughi, S. (2021). Linguistic complexity loss in text-based therapy. In *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.* [[paper]](https://aclanthology.org/2021.naacl-main.352.pdf)
 
