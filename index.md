@@ -45,5 +45,5 @@ Tamir, D.\*, **Templeton, E.\***, Ward, A., & Zaki, J. (2018). Media usage dimin
 
 **Templeton, E.M.**, Stanton, M.V., & Zaki, J. (2016). Social norms shift preferences for healthy and unhealthy foods. *PLoS ONE.* [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166286) [[data & materials]](https://github.com/emtempleton/FoodPaper)
 
-Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodling: How does Facebook Use Impact Memory of Lecture Content?. *The Harvard Undergraduate Research Journal.*  
+Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodling: How does Facebook Use Impact Memory of Lecture Content?. *The Harvard Undergraduate Research Journal.* [[paper]](THURJ.pdf)
 
