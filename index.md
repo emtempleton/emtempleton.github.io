@@ -23,7 +23,6 @@ In addition to this round-robin conversation dataset, I’ve also collected diff
 Of course, I like to follow up any findings from these naturalistic datasets with controlled **experimental studies**. However, I think there is real value in having insights come from the data *itself* rather than intuition *alone*. After all, I  only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
 
 # Publications
-\* Denotes equal contribution
 
 ### // In Prep
 
@@ -41,7 +40,7 @@ Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under rev
 
 Wei, J., Finn, K., **Templeton, E.**, Wheatley, T., & Vosoughi, S. (2021). Linguistic complexity loss in text-based therapy. In *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.* [[paper]](https://aclanthology.org/2021.naacl-main.352.pdf)
 
-Tamir, D.\*, **Templeton, E.\***, Ward, A., & Zaki, J. (2018). Media usage diminishes memory for experiences. *Journal of Experimental Social Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S002210311730505X?casa_token=F27U5RpEeZ4AAAAA:-dEJOuxzgmUMdIk31KazeLXgQdNZX9Q-kYfKv0b8div-UGf5U44NIjFfmEwdan_c35Mgh68) [[data & materials]](https://osf.io/uqh5d/)
+Tamir, D.\*, **Templeton, E.\***, Ward, A., & Zaki, J. (2018). Media usage diminishes memory for experiences. *Journal of Experimental Social Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S002210311730505X?casa_token=F27U5RpEeZ4AAAAA:-dEJOuxzgmUMdIk31KazeLXgQdNZX9Q-kYfKv0b8div-UGf5U44NIjFfmEwdan_c35Mgh68) [[data & materials]](https://osf.io/uqh5d/) <span style="font-size:0.75em;">**\*** Denotes equal contribution</span>
 
 **Templeton, E.M.**, Stanton, M.V., & Zaki, J. (2016). Social norms shift preferences for healthy and unhealthy foods. *PLoS ONE.* [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166286) [[data & materials]](https://github.com/emtempleton/FoodPaper)
 
