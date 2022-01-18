@@ -32,17 +32,17 @@ Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (in prep). Zooming Out on Barga
 
 ### // Under review
 
-Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under review). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
+Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under revision). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
 
 ### // Published
 
-**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in press). Fast response times signal social connection in conversation. *Proceedings of the National Academy of Sciences.* [[data & materials]](https://github.com/emtempleton/GapPaper)
+**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2022). Fast response times signal social connection in conversation. *Proceedings of the National Academy of Sciences.* [[paper]](https://www.pnas.org/content/119/4/e2116915119) [[data & materials]](https://github.com/emtempleton/GapPaper)
 
 Wei, J., Finn, K., **Templeton, E.**, Wheatley, T., & Vosoughi, S. (2021). Linguistic complexity loss in text-based therapy. In *Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics.* [[paper]](https://aclanthology.org/2021.naacl-main.352.pdf)
 
 Tamir, D.\*, **Templeton, E.\***, Ward, A., & Zaki, J. (2018). Media usage diminishes memory for experiences. *Journal of Experimental Social Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S002210311730505X?casa_token=F27U5RpEeZ4AAAAA:-dEJOuxzgmUMdIk31KazeLXgQdNZX9Q-kYfKv0b8div-UGf5U44NIjFfmEwdan_c35Mgh68) [[data & materials]](https://osf.io/uqh5d/) <span style="font-size:0.75em;">**\*** Denotes equal contribution</span>
 
-**Templeton, E.M.**, Stanton, M.V., & Zaki, J. (2016). Social norms shift preferences for healthy and unhealthy foods. *PLoS ONE.* [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166286) [[data & materials]](https://github.com/emtempleton/FoodPaper)
+**Templeton, E.**, Stanton, M., & Zaki, J. (2016). Social norms shift preferences for healthy and unhealthy foods. *PLoS ONE.* [[paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166286) [[data & materials]](https://github.com/emtempleton/FoodPaper)
 
 Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodling: How does Facebook Use Impact Memory of Lecture Content?. *The Harvard Undergraduate Research Journal.* [[paper]](THURJ.pdf)
 
