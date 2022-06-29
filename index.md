@@ -26,15 +26,15 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // In Prep
 
-**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in prep). Strangers mind the gap more than friends.
-
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (in prep). Zooming Out on Bargaining Tables: Conversation Dynamics Predicts Negotiation Outcomes.
 
 ### // Under review
 
-Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (under revision). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
+**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (invited revision). Long gaps between turns are awkward for strangers but not for friends.
 
 ### // Published
+
+Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (in press). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. *Philosophical Transactions B.* [[preprint]](https://psyarxiv.com/gk9z2/) [[data & materials]](https://osf.io/tfxa7/)
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2022). Fast response times signal social connection in conversation. *Proceedings of the National Academy of Sciences.* [[paper]](https://www.pnas.org/content/119/4/e2116915119) [[data & materials]](https://github.com/emtempleton/GapPaper)
 
