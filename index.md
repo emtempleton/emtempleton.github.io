@@ -4,7 +4,7 @@ Hi! I'm a PhD candidate in Psychological and Brain Sciences at Dartmouth. I work
 
 Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as a lab manager at Stanford in [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab.
 
-I love building community wherever I go. I’ve been fortunate to formally contribute to student residential life in my role as a [Resident Fellow](https://students.dartmouth.edu/residential-life/house-communities/resident-fellows) in [East Wheelock House](https://sites.dartmouth.edu/ew/) for the past four years.
+I love building community wherever I go. I’ve been fortunate to formally contribute to student residential life in my role as a [Resident Fellow](https://students.dartmouth.edu/residential-life/house-communities/resident-fellows) in [East Wheelock House](https://sites.dartmouth.edu/ew/) for the past five years.
 
 # My Research
 
@@ -26,7 +26,7 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
-**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (in press). Long gaps between turns are awkward for strangers but not for friends. *Phil. Trans. R. Soc. B.* [[data & materials]](https://github.com/emtempleton/LongGaps)
+**Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2023). Long gaps between turns are awkward for strangers but not for friends. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0471) [[data & materials]](https://github.com/emtempleton/LongGaps)
 
 Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (2022). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0187) [[data & materials]](https://osf.io/tfxa7/)
 
