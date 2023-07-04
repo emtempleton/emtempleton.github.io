@@ -26,6 +26,10 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
+**Templeton, E.** & Wheatley, T. (in press). Listening fast and slow. *Current Opinion in Psychology*.
+
+Di Stasi, M., **Templeton, E.** & Quoidbach, J. (in press). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*.
+
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2023). Long gaps between turns are awkward for strangers but not for friends. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0471) [[data & materials]](https://github.com/emtempleton/LongGaps)
 
 Wood, A., **Templeton, E.**, Morrel, J., Schubert, F., & Wheatley, T. (2022). Tendency to laugh is a stable trait: Findings from a round-robin conversation study. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0187) [[data & materials]](https://osf.io/tfxa7/)
