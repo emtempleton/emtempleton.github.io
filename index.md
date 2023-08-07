@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm a PhD candidate in Psychological and Brain Sciences at Dartmouth. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is: **What makes conversation "good"?**
+Hi! I'm a Postdoctoral fellow in Psychological and Brain Sciences at Dartmouth, where I also completed my PhD. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is: **What makes conversation "good"?**
 
 Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as a lab manager at Stanford in [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab.
 
@@ -26,9 +26,9 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
-**Templeton, E.** & Wheatley, T. (in press). Listening fast and slow. *Current Opinion in Psychology*.
-
 Di Stasi, M., **Templeton, E.** & Quoidbach, J. (in press). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*.
+
+**Templeton, E.** & Wheatley, T. (2023). Listening fast and slow. *Current Opinion in Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S2352250X23001033).
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2023). Long gaps between turns are awkward for strangers but not for friends. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0471) [[data & materials]](https://github.com/emtempleton/LongGaps)
 
