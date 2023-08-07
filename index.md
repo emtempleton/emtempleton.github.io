@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm a Postdoctoral fellow in Psychological and Brain Sciences at Dartmouth, where I also completed my PhD. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is: **What makes conversation "good"?**
+Hi! I'm a postdoctoral fellow in Psychological and Brain Sciences at Dartmouth, where I also completed my PhD. I work with [Thalia Wheatley](http://www.wheatlab.com/) and [Luke Chang](https://cosanlab.com/). The question that motivates my research is: **What makes conversation "good"?**
 
 Before graduate school, I received my A.B. in Psychology from Harvard where I worked with [Jason Mitchell](https://jasonmitchell.fas.harvard.edu/) and [Diana Tamir](https://psnlab.princeton.edu/). Then, I worked as a lab manager at Stanford in [Jamil Zaki](https://www.ssnl.stanford.edu/)'s lab.
 
