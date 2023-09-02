@@ -44,3 +44,15 @@ Tamir, D.\*, **Templeton, E.\***, Ward, A., & Zaki, J. (2018). Media usage dimin
 
 Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodling: How does Facebook Use Impact Memory of Lecture Content?. *The Harvard Undergraduate Research Journal.* [[paper]](THURJ.pdf)
 
+### // Under Review or In Preparation
+
+Cox, C., **Templeton, E.**, & Fusaroli, R. (under review). Fine-Tuning Social Timing: From Non-Human to Human Animals and Back. A Commentary on “The Evolution of Social Timing” by Verga, Kotz, and Ravignani. 
+
+**Templeton, E.**, Chang, L., Cone LeBeaumont, M., & Wheatley, T. (in prep). From talk to telepathy: The social benefits of saying more with less. 
+
+**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Launch pad topics help strangers start their conversations. 
+
+Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
+
+
+
