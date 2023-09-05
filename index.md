@@ -28,6 +28,8 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 Di Stasi, M., **Templeton, E.** & Quoidbach, J. (in press). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*.
 
+Cox, C., **Templeton, E.**, & Fusaroli, R. (in press). Fine-Tuning Social Timing: From Non-Human to Human Animals and Back. A Commentary on “The Evolution of Social Timing” by Verga, Kotz, and Ravignani. *Physics of Life Reviews*.
+
 **Templeton, E.** & Wheatley, T. (2023). Listening fast and slow. *Current Opinion in Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S2352250X23001033).
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2023). Long gaps between turns are awkward for strangers but not for friends. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0471) [[data & materials]](https://github.com/emtempleton/LongGaps)
@@ -44,13 +46,11 @@ Tamir, D.\*, **Templeton, E.\***, Ward, A., & Zaki, J. (2018). Media usage dimin
 
 Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodling: How does Facebook Use Impact Memory of Lecture Content?. *The Harvard Undergraduate Research Journal.* [[paper]](THURJ.pdf)
 
-### // Under Review or In Preparation
-
-Cox, C., **Templeton, E.**, & Fusaroli, R. (under review). Fine-Tuning Social Timing: From Non-Human to Human Animals and Back. A Commentary on “The Evolution of Social Timing” by Verga, Kotz, and Ravignani. 
+### // Under Review or In Preparation 
 
 **Templeton, E.**, Chang, L., Cone LeBeaumont, M., & Wheatley, T. (in prep). From talk to telepathy: The social benefits of saying more with less. 
 
-**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Launch pad topics help strangers start their conversations. 
+**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Launch pad topics facilitate finding common ground. 
 
 Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
 
