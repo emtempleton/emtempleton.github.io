@@ -28,9 +28,9 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 Di Stasi, M., **Templeton, E.** & Quoidbach, J. (in press). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*.
 
-Cox, C., **Templeton, E.**, & Fusaroli, R. (in press). Fine-Tuning Social Timing: From Non-Human to Human Animals and Back. A Commentary on “The Evolution of Social Timing” by Verga, Kotz, and Ravignani. *Physics of Life Reviews*. [[preprint]](https://psyarxiv.com/7sqdf/).
+Cox, C., **Templeton, E.**, & Fusaroli, R. (in press). Fine-Tuning Social Timing: From Non-Human to Human Animals and Back. A Commentary on “The Evolution of Social Timing” by Verga, Kotz, and Ravignani. *Physics of Life Reviews*. [[preprint]](https://psyarxiv.com/7sqdf/)
 
-**Templeton, E.** & Wheatley, T. (2023). Listening fast and slow. *Current Opinion in Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S2352250X23001033).
+**Templeton, E.** & Wheatley, T. (2023). Listening fast and slow. *Current Opinion in Psychology.* [[paper]](https://www.sciencedirect.com/science/article/pii/S2352250X23001033)
 
 **Templeton, E.**, Chang, L., Reynolds, E., Cone LeBeaumont, M., & Wheatley, T. (2023). Long gaps between turns are awkward for strangers but not for friends. *Phil. Trans. R. Soc. B.* [[paper]](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0471) [[data & materials]](https://github.com/emtempleton/LongGaps)
 
