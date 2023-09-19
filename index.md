@@ -50,7 +50,7 @@ Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodlin
 
 **Templeton, E.**, Chang, L., Cone LeBeaumont, M., & Wheatley, T. (in prep). From talk to telepathy: The social benefits of saying more with less. 
 
-**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Launch pad topics facilitate finding common ground. 
+**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Launch pad topics facilitate the search for common ground. 
 
 Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
 
