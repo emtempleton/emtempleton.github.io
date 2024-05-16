@@ -26,7 +26,9 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
-Di Stasi, M., **Templeton, E.** & Quoidbach, J. (2023). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*. [[paper]](JourAppPsych.pdf)
+**Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. [[paper]](conversationallaunch_0510.pdf)
+
+Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2023). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*. [[paper]](JourAppPsych.pdf)
 
 Cox, C., **Templeton, E.**, & Fusaroli, R. (2023). Fine-Tuning Social Timing: From Non-Human to Human Animals and Back. A Commentary on “The Evolution of Social Timing” by Verga, Kotz, and Ravignani. *Physics of Life Reviews*. [[paper]](https://www.sciencedirect.com/science/article/pii/S1571064523001264)
 
@@ -50,7 +52,7 @@ Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodlin
 
 **Templeton, E.**, Chang, L., Cone LeBeaumont, M., & Wheatley, T. (in prep). From talk to telepathy: The social benefits of saying more with less. 
 
-**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Launch pad topics facilitate the search for common ground. 
+**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Why the weather? High-transition topics launch conversation. 
 
 Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
 
