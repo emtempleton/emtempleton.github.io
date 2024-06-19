@@ -26,7 +26,7 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
-**Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society*. [[paper]](launch_pads.pdf)
+**Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 46). [[paper]](https://escholarship.org/uc/item/1nf3t0hp)
 
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2023). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*. [[paper]](JourAppPsych.pdf)
 
