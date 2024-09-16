@@ -26,6 +26,8 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
+**Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (2024). From talk to telepathy: The spontaneous use of insider language in casual conversation. *PsyArXiv*. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx?view_only=)
+
 **Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 46). [[paper]](https://escholarship.org/uc/item/1nf3t0hp)
 
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2023). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*. [[paper]](JourAppPsych.pdf)
@@ -50,9 +52,11 @@ Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodlin
 
 ### // Under Review or In Preparation 
 
-**Templeton, E.**, Chang, L., Cone LeBeaumont, M., & Wheatley, T. (in prep). From talk to telepathy: The social benefits of saying more with less. 
+**Templeton, E.**, Wheatley, T., & Chang, L. (invited submission). The importance of studying natural conversation. *Trends in Cognitive Sciences*
 
-**Templeton, E.**, Chang, L., & Wheatley, T. (in prep). Why the weather? High-transition topics launch conversation. 
+**Templeton, E.**, Wheatley, T., & Chang, L. (in prep). Why the weather? High-transition topics launch conversation. 
+
+Thornton, M., **Templeton, E.**, & Wheatley, T. (in prep). Body movement synchrony and ani-synchrony in conversations between friends and strangers. 
 
 Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
 
