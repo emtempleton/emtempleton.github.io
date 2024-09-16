@@ -26,7 +26,7 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
-**Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (2024). From talk to telepathy: The spontaneous use of insider language in casual conversation. *PsyArXiv*. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx?view_only=)
+**Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (2024). From talk to telepathy: The spontaneous use of insider language in casual conversation. *PsyArXiv*. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx)
 
 **Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 46). [[paper]](https://escholarship.org/uc/item/1nf3t0hp)
 
