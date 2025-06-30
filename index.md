@@ -6,6 +6,8 @@ Before graduate school, I received my A.B. in Psychology from Harvard where I wo
 
 I love building community wherever I go. I’ve been fortunate to formally contribute to student residential life in my role as a [Resident Fellow](https://students.dartmouth.edu/residential-life/house-communities/resident-fellows) in [East Wheelock House](https://sites.dartmouth.edu/ew/) for the past five years.
 
+I'm looking forward to building a *new* community in Chicago, where I will be starting as an Assistant Professor of Behavioral Science at the University of Chicago [Booth School of Business](https://www.chicagobooth.edu/) in summer 2026! I plan to hire a lab manager so please reach out if you are interested in working with me!  
+
 # My Research
 
 I study **conversation**. 
