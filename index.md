@@ -58,7 +58,7 @@ Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodlin
 
 **Templeton, E.**, Wheatley, T., & Chang, L. (in prep). Why the weather? High-transition topics launch conversation. 
 
-Thornton, M., **Templeton, E.**, & Wheatley, T. (in prep). Body movement synchrony and ani-synchrony in conversations between friends and strangers. 
+Thornton, M., **Templeton, E.**, Tepfer, L., & Wheatley, T. (in prep). The forms and mechanisms of body motion synchrony in conversation. 
 
 Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
 
