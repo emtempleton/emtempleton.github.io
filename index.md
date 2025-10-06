@@ -6,7 +6,19 @@ Before graduate school, I received my A.B. in Psychology from Harvard where I wo
 
 I love building community wherever I go. I’ve been fortunate to formally contribute to student residential life in my role as a [Resident Fellow](https://students.dartmouth.edu/residential-life/house-communities/resident-fellows) in [East Wheelock House](https://sites.dartmouth.edu/ew/) for the past five years.
 
-I'm looking forward to building a *new* community in Chicago, where I will be starting as an Assistant Professor of Behavioral Science at the University of Chicago [Booth School of Business](https://www.chicagobooth.edu/) in summer 2026! In a lovely full-circle moment, I plan to hire a lab manager of my own so please reach out if you are interested in working with me!  
+# Next Up: Chicago Booth!
+
+I'm looking forward to building a *new* community in Chicago, where I will be starting as an Assistant Professor of Behavioral Science at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu/) in summer 2026! 
+
+## Getting Involved: Prospective PhD Students
+
+I will be accepting PhD students for next year. If you are interested in studying what makes people feel connected in conversation and how to encourage people to initiate more conversations, please consider applying! The [application](https://www.chicagobooth.edu/phd/admissions/how-to-apply) deadline is December 15, 2025.
+
+At Booth, you apply to the department, not to an individual faculty member. You can learn more about the amazing work happening in Behavioral Science [here](https://www.chicagobooth.edu/faculty/academic-areas/behavioral-science). There are opportunities for a joint degree with the Psychology Department, located just down the street! 
+
+## Getting Involved: Prospective Lab Managers
+
+I plan to hire a full-time lab manager. Stay tuned for more information about the role and the application process!  
 
 # My Research
 
