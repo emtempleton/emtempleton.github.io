@@ -10,15 +10,11 @@ I love building community wherever I go. I’ve been fortunate to formally contr
 
 I'm looking forward to building a *new* community in Chicago, where I will be starting as an Assistant Professor of Behavioral Science at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu/) in summer 2026! 
 
-### // Prospective PhD Students
-
 I will be reviewing PhD applications for next year. If you are interested in studying what makes people feel connected in conversation and how to encourage people to initiate more conversations, please consider applying! The [application](https://www.chicagobooth.edu/phd/admissions/how-to-apply) deadline is December 15, 2025.
 
 At Booth, you apply to the department, not to an individual faculty member. You can learn more about the amazing work happening in Behavioral Science [here](https://www.chicagobooth.edu/faculty/academic-areas/behavioral-science). There are also opportunities for a joint degree with the Psychology Department, located just down the street! 
 
-### // Prospective Lab Managers
-
-I plan to hire a full-time lab manager. Stay tuned for more information about the role and the application process!  
+I also plan to hire a full-time lab manager. Stay tuned for more information about the role and the application process!  
 
 # My Research
 
