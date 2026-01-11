@@ -36,8 +36,6 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
-**Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (2024). From talk to telepathy: The spontaneous use of insider language in casual conversation. *PsyArXiv*. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx)
-
 **Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 46). [[paper]](https://escholarship.org/uc/item/1nf3t0hp)
 
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2023). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*. [[paper]](JourAppPsych.pdf)
@@ -62,7 +60,9 @@ Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodlin
 
 ### // Under Review or In Preparation 
 
-**Templeton, E.**, Wheatley, T., & Chang, L. (invited submission). The importance of studying natural conversation. *Trends in Cognitive Sciences*
+**Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (under review). From talk to telepathy: People feel more connected when they use insider language in conversation. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx)
+
+Nielsen, Y., Fusaroli, R., Trecca, F., Bleses, D., Fein, D., Højen, A., Naigles, L., **Templeton, E.**, & Christiansen, M. (invited revision). Conversational alignment as an individual difference. *Proceedings of the Royal Society B: Biological Sciences*. 
 
 **Templeton, E.**, Wheatley, T., & Chang, L. (in prep). Why the weather? High-transition topics launch conversation. 
 
