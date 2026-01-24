@@ -64,7 +64,7 @@ Nielsen, Y., Fusaroli, R., Trecca, F., Bleses, D., Fein, D., Højen, A., Naigles
 
 **Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (under review). From talk to telepathy: People feel more connected when they use insider language in conversation. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx)
 
-**Templeton, E.** & Chang, L. (invited submission, under review). Conversation as data: Extracting features from naturalistic conversation datasets. In Jiin Jung (Ed.), *Handbook of Computational Social Psychology*, Edward Elgar Publishing. [[draft]](SubmittedChapter_ConversationFeatures.pdf) 
+**Templeton, E.** & Chang, L. (invited submission, under review). Conversation as data: Extracting features from naturalistic conversation datasets. In Jiin Jung (Ed.), *Handbook of Computational Social Psychology*, Edward Elgar Publishing. 
 
 **Templeton, E.**, Wheatley, T., & Chang, L. (in prep). Why the weather? High-transition topics launch conversation. 
 
