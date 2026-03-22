@@ -36,6 +36,8 @@ Of course, I like to follow up any findings from these naturalistic datasets wit
 
 ### // Published
 
+Nielsen, Y., Fusaroli, R., Trecca, F., Bleses, D., Fein, D., Højen, A., Naigles, L., **Templeton, E.**, & Christiansen, M. (2026). Conversational alignment as an individual difference. *Proceedings of the Royal Society B: Biological Sciences*. [[paper]](https://royalsocietypublishing.org/rspb/article/293/2067/20252205/480949/Conversational-alignment-as-an-individual)
+
 **Templeton, E.**, Chang, L., & Wheatley, T. (2024). Conversational Launch Pads. In *Proceedings of the Annual Meeting of the Cognitive Science Society* (Vol. 46). [[paper]](https://escholarship.org/uc/item/1nf3t0hp)
 
 Di Stasi, M., **Templeton, E.**, & Quoidbach, J. (2023). Zooming Out on Bargaining Tables: Exploring Which Conversation Dynamics Predict Negotiation Outcomes. *Journal of Applied Psychology*. [[paper]](JourAppPsych.pdf)
@@ -60,15 +62,13 @@ Jordan, J., Rutter, E., & **Templeton, E.** (2012). Twenty-first Century Doodlin
 
 ### // Under Review or In Preparation 
 
-Nielsen, Y., Fusaroli, R., Trecca, F., Bleses, D., Fein, D., Højen, A., Naigles, L., **Templeton, E.**, & Christiansen, M. (invited revision). Conversational alignment as an individual difference. *Proceedings of the Royal Society B: Biological Sciences*.
-
 **Templeton, E.**, Chang, L., Cone LeBeaumont, M., Nook, E., Haddox, D., Aiman, E., & Wheatley, T. (under review). From talk to telepathy: People feel more connected when they use insider language in conversation. [[preprint]](https://osf.io/preprints/psyarxiv/g38cx)
+
+Thornton, M., **Templeton, E.**, Tepfer, L., & Wheatley, T. (under review). The forms and mechanisms of body motion synchrony in conversation. [[preprint]](https://osf.io/preprints/psyarxiv/q2rjd)
 
 **Templeton, E.** & Chang, L. (invited submission, under review). Conversation as data: Extracting features from naturalistic conversation datasets. In Jiin Jung (Ed.), *Handbook of Computational Social Psychology*, Edward Elgar Publishing. 
 
-**Templeton, E.**, Wheatley, T., & Chang, L. (in prep). Why the weather? High-transition topics launch conversation. 
-
-Thornton, M., **Templeton, E.**, Tepfer, L., & Wheatley, T. (in prep). The forms and mechanisms of body motion synchrony in conversation. 
+**Templeton, E.**, Wheatley, T., & Chang, L. (in prep). Why the weather? High-transition topics launch conversation.  
 
 Welker, C., **Templeton, E.**, & Wheatley, T. (in prep). The affective benefits of diversified social interaction. 
 
