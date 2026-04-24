@@ -8,13 +8,7 @@ I love building community wherever I go. I’ve been fortunate to formally contr
 
 # Next Up: Chicago Booth!
 
-I'm looking forward to building a *new* community in Chicago, where I will be starting as an Assistant Professor of Behavioral Science at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu/) in summer 2026! 
-
-I will be hiring a **full-time Research Professional** to help launch my research program at Chicago Booth. This position is ideal for motivated college graduates considering graduate school in behavioral science or psychology. 
-
-More details about the position, including application instructions, can be found [here](https://www.chicagobooth.edu/-/media/faculty/research-professional-program/job-ads/2025-26/templeton-job-ad-2026.pdf).
-
-I will begin reviewing applications on **March 1**.  
+I'm looking forward to building a *new* community in Chicago, where I will be starting as an Assistant Professor of Behavioral Science at the [University of Chicago Booth School of Business](https://www.chicagobooth.edu/) in summer 2026!   
 
 # My Research
 
