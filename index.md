@@ -22,7 +22,9 @@ I use **data-driven**, **naturalistic** approaches to explore this question.
 
 I’ve collected a large round-robin dataset where every member of each round-robin has a conversation with every other member. I quantify different aspects of these conversations to examine how conversation behavior relates to participant reports of enjoyment and connection. The round-robin network structure makes it possible to look at multiple levels of analyses: within conversations, across conversations, and across individual people. 
 
-In addition to this round-robin conversation dataset, I’ve also collected different conversation types (friends vs strangers) as well as formats (face-to-face vs online). Recently, I began collaborating with filmmakers at [The Skin Deep](https://www.theskindeep.com/) to analyze their collection of beautifully curated, intimate conversations designed to deepen connection. This [4-part series](https://www.youtube.com/playlist?list=PLo7UKMJBgef0Cj-lL-F7NYtCGphYUFJeC) highlights the collaboration and showcases their impeccable filmmaking.
+In addition to this round-robin conversation dataset, I’ve also collected different conversation types (friends vs strangers) as well as formats (face-to-face vs online).
+
+Recently, I began collaborating with filmmakers at [The Skin Deep](https://www.theskindeep.com/) to analyze their collection of beautifully curated, intimate conversations designed to deepen connection. This [4-part series](https://www.youtube.com/playlist?list=PLo7UKMJBgef0Cj-lL-F7NYtCGphYUFJeC) highlights the collaboration and showcases their impeccable filmmaking.
 
 Of course, I like to follow up any findings from these naturalistic datasets with controlled **experimental studies**. However, I think there is real value in having insights come from the data *itself* rather than intuition *alone*. After all, I  only have access to my own conversations! I might mistakenly believe everyone loves keeping up with the Kardashians as much as I do (and unfortunately, I would be wrong).
 
